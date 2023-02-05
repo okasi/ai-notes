@@ -2,6 +2,33 @@
 
 ---
 
+## How to get started
+
+Get a Nvidia GPU, preferably RTX 3090+
+
+Install Nvidia drivers
+
+Install CUDA toolkit
+https://developer.nvidia.com/cuda-11-7-1-download-archive
+
+Install cuDNN
+
+https://developer.nvidia.com/rdp/cudnn-archive
+
+https://developer.download.nvidia.com/compute/redist/cudnn/v8.6.0/local_installers/11.8/
+
+
+
+pip install transformers
+pip install sentencepiece
+pip install accelerate
+pip3 install nvidia-pyindex
+pip3 install nvidia-tensorrt
+pip3 install torch-tensorrt -f https://github.com/NVIDIA/Torch-TensorRT/releases
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+
+---
+
 ## Latest news
 
 https://bleedingedge.ai/
