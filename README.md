@@ -8,7 +8,7 @@ https://bleedingedge.ai/
 
 ---
 
-## Recent benchmark 
+## Recent benchmark (30 Jan 2023)
 
 <img width="304" alt="image" src="https://user-images.githubusercontent.com/42962282/216824026-fd713e27-bca2-49d5-ba36-5249903c7811.png">
 from https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML paper
