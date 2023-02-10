@@ -90,4 +90,10 @@ https://github.com/LAION-AI/Open-Assistant
 
 ---
 
+## Biomedical
+
+https://github.com/microsoft/BioGPT
+
+---
+
 https://github.com/sw-yx/ai-notes/blob/main/TEXT.md
