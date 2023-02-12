@@ -21,9 +21,6 @@ pip install tqdm boto3 requests regex sacremoses
 pip install transformers
 pip install sentencepiece
 pip install accelerate
-pip install nvidia-pyindex
-pip install nvidia-tensorrt
-pip install torch-tensorrt -f https://github.com/NVIDIA/Torch-TensorRT/releases
 pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu118
 ```
 
