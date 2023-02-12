@@ -12,10 +12,10 @@ https://developer.nvidia.com/cuda-11-8-0-download-archive
 Install cuDNN  
 https://developer.download.nvidia.com/compute/redist/cudnn/v8.7.0/local_installers/11.8/
 
-Install python via chocolatey  
+Install Python via chocolatey  
 `choco install python --version=3.10.8`
 
-Install necessary dependencies  
+Install necessary Python dependencies  
 ```
 pip install tqdm boto3 requests regex sacremoses
 pip install transformers
