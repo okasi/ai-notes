@@ -10,7 +10,7 @@ Install CUDA toolkit
 https://developer.nvidia.com/cuda-11-8-0-download-archive
 
 Install cuDNN  
-https://developer.download.nvidia.com/compute/redist/cudnn/v8.7.0/local_installers/11.8/
+https://developer.download.nvidia.com/compute/redist/cudnn/v8.8.0/local_installers/11.8/
 
 Install Python via chocolatey  
 `choco install python --version=3.10.8`
